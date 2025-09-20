@@ -1,0 +1,4 @@
+2025-09-19 09:32:15 ERROR Failed to connect to DB
+2025-09-19 09:32:17 WARN Retry attempt 1
+2025-09-19 09:32:20 ERROR Failed to connect to DB
+2025-09-19 09:32:25 CRITICAL DB connection timeout

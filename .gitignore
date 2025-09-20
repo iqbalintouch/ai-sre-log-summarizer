@@ -1,0 +1,42 @@
+
+---
+
+### 📝 5. `.gitignore`
+```gitignore
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# dotenv
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/Test
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
