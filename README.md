@@ -31,7 +31,7 @@ Action Required: Immediate investigation of DB connectivity.
 ## Setup
 
 1. Clone repo
-```bash
+
 git clone https://github.com/iqbalintouch/ai-sre-log-summarizer.git
 cd ai-sre-log-summarizer
 Create virtual environment
